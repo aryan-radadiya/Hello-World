@@ -1,2 +1,3 @@
-# Hello-World
-#initial-phase
+# maven-project
+
+Simple Maven Project
